@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/michalzychowski/count.svg" alt="Visitor's Count" style="width: 150px;" />
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=85C63D&duration=6000&lines=Hi+everyone!+👋;+I'm+Michał Żychowski!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=85C63D&duration=6000&lines=Hi+everyone!+👋;+I'm+Michael!;" />
 </h1>
 
 ### I am a Master's student in Computer Science (specialization: IT Analytics in Business) at the University of Information Technology and Management in Rzeszów, and a graduate of Engineering studies in Computer Science and Econometrics at the University of Rzeszów. I possess programming skills and project experience. I aim to develop professionally in the fields of data analysis, software testing, and artificial intelligence, combining technical knowledge with practical solutions. I am looking for opportunities that will allow me to continue learning and effectively apply my knowledge in practice.
