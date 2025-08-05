@@ -1,5 +1,4 @@
 <div align="center"> 
-  <p style="font-size: 12px;">Profile views</p>
 <img src="https://komarev.com/ghpvc/?username=michalzychowski&color=green&label=PROFILE+VIEWS" alt="Profile view counter on GitHub">
 </div>
 <h1 align="center">
