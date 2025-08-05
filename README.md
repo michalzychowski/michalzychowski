@@ -1,6 +1,6 @@
 <div align="center"> 
   <p style="font-size: 12px;">Profile views</p>
-  <img src="https://profile-counter.glitch.me/michalzychowski/count.svg" alt="Visitor's Count" style="width: 150px;" />
+<img src="https://komarev.com/ghpvc/?username=michalzychowski&color=green&label=PROFILE+VIEWS" alt="Profile view counter on GitHub">
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=85C63D&duration=6000&lines=Hi+everyone!+👋;+I'm+Michael!;" />
