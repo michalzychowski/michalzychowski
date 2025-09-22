@@ -23,9 +23,9 @@
 <br>
 
 <div align=center>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=michalzychowski&theme=merko&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Michał's GitHub Stats" />
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=michalzychowski&theme=merko&count_private=true&border_radius=10&locale=en" alt="Michał's" />
-<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=michalzychowski&theme=merko&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Michał's Most Used Languages" />
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=michalzychowski&theme=merko&count_private=true&show_icons=true&rank_icon=github&card_height=210&locale=en" alt="Michał's GitHub Stats" />
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=michalzychowski&theme=merko&count_private=true&border_radius=10&card_height=210&locale=en" alt="Michał's" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=michalzychowski&theme=merko&layout=donut&langs_count=10&border_radius=10&show_icons=true&card_height=425&card_width=425&locale=en" alt="Michał's Most Used Languages" />
 </div>
 
 <hr>
